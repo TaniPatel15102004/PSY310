@@ -1,0 +1,6 @@
+Participant,mean_rt_low,mean_rt_moderate,mean_rt_high,mean_rt_very_high,low_complexity_accuracy,moderate_complexity_accuracy,high_complexity_accuracy,very_high_complexity_accuracy
+P1,0.8878451,1.019251375,1.23764155,NA,1,0.8,0.4,0
+P2,0.37918832,0.887383225,1.059658767,1.8111983,1,0.8,0.6,0.4
+P3,0.85755006,1.2680696,1.8958454,NA,1,0.6,0.2,0
+P4,0.56670432,0.918083225,1.0621213,1.9027128,1,0.8,0.6,0.2
+P5,0.53968624,0.866444833,1.706663667,1.963083,1,0.6,0.6,0.2

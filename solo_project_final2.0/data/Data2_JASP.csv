@@ -1,0 +1,6 @@
+Participant,low,moderate,high,very_high,,,Low,Moderate,High,Very_high
+P1,1,0.8,0.4,0,,mean_accuracy ,1,0.72,0.48,0.16
+P2,1,0.8,0.6,0.4,,,,,,
+P3,1,0.6,0.2,0,,,,,,
+P4,1,0.8,0.6,0.2,,,,,,
+P5,1,0.6,0.6,0.2,,,,,,
